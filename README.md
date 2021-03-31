@@ -1,2 +1,2 @@
 # ML_projects
- These arre my little projects i have done for my class "Statistical learning" in MSc "Computer vision and Computational Intelligence"
+ These are the projects i have done for my class "Statistical learning" in MSc "Computer vision and Computational Intelligence". It is for machine learning methods focused on dimensionality reduction. The methods that were used are PCA, kernelPCA, LDA and graph embedding with ISOMAP and LLE. Also there was used Spectral Clusterring for clustering technique of two of the datasets(mnist,segmentation).
